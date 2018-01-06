@@ -1,10 +1,10 @@
 -- Database Creation
 
-CREATE DATABASE burgers_db;
+CREATE DATABASE vkly78wc6wmnk2mg;
 
 
 
-USE burgers_db;
+USE vkly78wc6wmnk2mg;
 
 
 
